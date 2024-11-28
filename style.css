@@ -1,0 +1,51 @@
+nav li { 
+
+    margin-right: -4px; 
+    justify-content: space-around;
+   
+  }
+
+  nav ul li {
+
+    margin: 10PX;
+    
+   
+  } 
+.heros {
+background-image: url(RESTO.png);
+background-attachment: fixed;
+background-position: center;
+background-size: cover;
+justify-content: center;
+align-items: center;
+display: flex;
+
+  height: 95vh;
+width: 99%;
+   
+  }
+   .tittre {
+
+   
+    color: rgb(124, 84, 169);
+   
+  } 
+
+ .paragraphe {
+
+   
+    color: rgb(149, 21, 21);
+   
+  } 
+  .Contact h1{
+
+   
+    margin-left: 50%;
+   
+  } 
+  .footer{
+    justify-content: center;
+    color: brown;
+    text-align: center;  }
+
+  
